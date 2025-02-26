@@ -2,3 +2,4 @@ streamlit
 pillow
 pdf2docx
 pandas
+tkinter
