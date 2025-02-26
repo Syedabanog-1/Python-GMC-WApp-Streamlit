@@ -1,12 +1,4 @@
 streamlit
-tkinter
 PIL
-os
-subprocess
 pdf2docx
 pandas
-filedialog
-messagebox
-Image
-ImageTk
-Converter
